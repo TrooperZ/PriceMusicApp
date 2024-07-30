@@ -1,0 +1,48 @@
+{
+    "leadingText": "I'm feeling",
+    "slides": [
+      {
+        "introline": "happy",
+        "id": "happy",
+        "content": {
+          "url": "https://open.spotify.com/playlist/4mRAHobPpqhXujTxoLsTIo?si=bd8709811c51481d"
+        }
+      },
+      {
+        "introline": "sad",
+        "id": "sad",
+        "content": {
+          "url": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=3bf9d66b0ca94956"
+        }
+      },
+      {
+        "introline": "confused",
+        "id": "confused",
+        "content": {
+          "url": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M?si=7756c08a456f46da"
+        }
+      },
+      {
+        "introline": "angry",
+        "id": "angry",
+        "content": {
+          "url": "https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq?si=0a2a1fe2a8074fa2"
+        }
+      },
+      {
+        "introline": "hyper",
+        "id": "hyper",
+        "content": {
+          "url": "https://open.spotify.com/playlist/37i9dQZF1EIWkN17HuTXyC?si=b341cca349ab49e2"
+        }
+      },
+      {
+        "introline": "depressed",
+        "id": "depressed",
+        "content": {
+          "url": "https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA?si=be888297ff134e3b"
+        }
+      }
+    ]
+  }
+  
